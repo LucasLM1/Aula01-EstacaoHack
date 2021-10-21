@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(#f0a00c8a, #fff);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+}
+
+header > img{
+    border-radius: 50%;
+    height: 150px;
+    box-shadow: 5px 5px 10px #212122;
+}
+
+h3{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+footer li {
+    list-style-type: none;
+    /*tirar os icones */
+    display: inline;
+    margin-right: 20px
+}
+
+footer a {
+    text-decoration: none;
+}

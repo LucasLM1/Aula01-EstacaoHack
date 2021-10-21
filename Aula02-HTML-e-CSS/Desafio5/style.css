@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: #0b0033;
+    font-family: Zapf-Chancery;
+}
+
+.box {
+    border: 1px 1px solid red; 
+    height: 500px;
+    padding: 30px 50px;
+    margin: 30px 50px;
+    background-image: linear-gradient(#e43b08, #053c5e00);
+}
+
+header {
+    color: #fff;
+    text-shadow: 4px 4px 10px #e43b08;
+}
